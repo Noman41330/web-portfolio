@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+.name_highligt{
+    color:rgb(36, 71, 79);
+}
+.side{
+    width: 40%;
+    float: left;
+    margin-left: 5% ;
+    padding: 2%;
+}
+img{
+width: 100%;
+}
+.bg-image{
+    background-image: url(image/nomansLand.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+}
