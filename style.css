@@ -20,7 +20,7 @@ height: 75%;
     background-repeat: no-repeat;
 }
 section{
-    height: 800px;
+    height: 500px;
 }
 
 .hireButton{
@@ -29,4 +29,25 @@ section{
     padding: 10px 20px;
     color: whitesmoke;
     font-weight: bold;
+}
+
+.boxShadow{
+    box-shadow: 10px 10px 40px whitesmoke;
+    border-radius: 10px;
+    height: 150px;
+    background-color: rgb(133, 137, 141);
+}
+
+#newComer{
+    border-left: 15px solid;
+    border-image: linear-gradient(rgb(109, 107, 41), rgb(70, 81, 19));
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+
+#babyDev{
+    border-left: 15px solid;
+    border-image: linear-gradient(rgb(109, 107, 41), rgb(70, 81, 19));
+    border-image-slice: 1;
+    border-radius: 10px;
 }
